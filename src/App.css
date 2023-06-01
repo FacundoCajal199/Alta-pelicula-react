@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(39, 38, 38);
+  color: aliceblue;
+}
+.mt{
+  margin-top: 2rem;
+  background-color: rgb(59, 60, 60);
+  padding: 1rem;
+  
+  
+}
+.text-weight{
+  font-weight: 700;
+}
+.btn-categorias{
+  width: 90px;
+  border-radius: 50px;
+  background-color: black;
+  color: aliceblue;
+  padding: 0;
+  border: 2px solid rgb(63, 62, 62);
+
+}
+.card{
+  padding: 1rem;
+}
+.bg-edit{
+  background-color: rgb(59, 60, 60);
+  color: aliceblue;
+}
